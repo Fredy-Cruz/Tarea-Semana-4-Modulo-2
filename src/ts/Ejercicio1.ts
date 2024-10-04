@@ -2,7 +2,7 @@
 color y fuente de la página, el segundo método que indique como desea que aparezca el título si centrado, 
 derecha o izquierda y el tercer método que imprima todas las propiedades. */
 
-import '../css/style.css';
+import '../css/Ejercicio1.css';
 
 // Inyeccion de HTML
 const content = document.getElementById('app');
