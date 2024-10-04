@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Sixtyfour+Convergence&display=swap');
+
+.left{
+    text-align: left;
+}
+
+.center{
+    text-align: center;
+}
+
+.right{
+    text-align: right;
+}
+
+body{
+    background-color: rgb(221, 184, 143);
+    font-family: "Sixtyfour Convergence", sans-serif;
+}
