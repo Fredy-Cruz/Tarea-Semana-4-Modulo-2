@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.title{
+    padding: 1rem;
+    color: white;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+#form{
+    padding: 1rem;
+}
+
+.data{
+    padding: 1rem;
+}
