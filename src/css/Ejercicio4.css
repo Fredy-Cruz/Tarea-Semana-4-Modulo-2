@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.title{
+    text-align: center;
+    padding: 1rem;
+    background-color: blueviolet;
+    color: white;
+}
+
+.content{
+    display: flex;
+    justify-content: space-around;
+}
+
+.content-element{
+    width: 400px;
+}
